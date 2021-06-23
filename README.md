@@ -16,6 +16,7 @@ Uma aplicação de chat para atendimento de clientes em tempo real. Desenvolvida
 ## 🚀 Uso
 
 - Clone o repositório
+- Execute `yarn` para baixar as dependências.
 - Execute `yarn typeorm migration:run` para criar as tabelas do banco de dados.
 - Rode o `yarn dev` para iniciar a aplicação.
 - Acesse `http://localhost:3333/pages/client` ou `http://localhost:3333/pages/admin`
