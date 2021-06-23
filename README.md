@@ -13,6 +13,10 @@ Uma aplicação de chat para atendimento de clientes em tempo real. Desenvolvida
 - [Express](https://expressjs.com/pt-br/)
 - [Socket.io](https://socket.io/)
 
+## 📌 Requisitos
+
+- Node 14
+
 ## 🚀 Uso
 
 - Clone o repositório
