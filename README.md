@@ -1,5 +1,7 @@
 # Chatty
 
+![chatty](https://drive.google.com/uc?export=view&id=1bus5-hGorrRjPGrIMvmheV0iGClzXsIJ)
+
 Uma aplicação de chat para atendimento de clientes em tempo real. Desenvolvida na Next Level Week #5 da [Rocketseat](https://rocketseat.com.br/).
 
 ## ⚙️ Tecnologias utilizadas
